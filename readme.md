@@ -16,6 +16,7 @@ articles
 ------------
 * [ImageNetClassiﬁcationwithDeepConvolutional NeuralNetworks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)<br>
 this article is about CNN,Alex Krizhevsky,ReLU Nonlinearity, Training on Multiple GPUs,Local Response Normalization,Overlapping Pooling,Dropout
-*[ EBGAN](https://arxiv.org/pdf/1609.03126v2.pdf)
+* [ EBGAN] <br>
+(https://arxiv.org/pdf/1609.03126v2.pdf)
 
 	
