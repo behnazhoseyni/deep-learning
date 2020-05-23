@@ -28,7 +28,7 @@ articles
 	* [Face Recognition: A Convolutional Neural-Network Approach](http://www.cs.cmu.edu/afs/cs/user/bhiksha/WWW/courses/deeplearning/Fall.2016/pdfs/Lawrence_et_al.pdf)
 	* [Contractive Auto-Encoders](https://icml.cc/2011/papers/455_icmlpaper.pdf)
 	* [Image Quality Assessment: From Error Visibility to Structural Similarity](https://ece.uwaterloo.ca/~z70wang/publications/ssim.pdf)
-	* [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf)%C3%AC%20%CB%9C)
+	* [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf)
 	* [ EBGAN](https://arxiv.org/pdf/1609.03126v2.pdf)
 
 	
