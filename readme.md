@@ -7,15 +7,15 @@ deep learning
 main book
 ------------	
 * [fundamentals of deep learning](https://universalflowuniversity.com/Books/Computer%20Programming/Machine%20Learning%20and%20Deep%20Learning/Fundamentals%20of%20Deep%20Learning_%20Designing%20Next-Generation%20Machine%20Intelligence%20Algorithms.pdf) <br>
-* [deep learning]
-(https://www.amazon.com/Deep-Learning-NONE-Ian-Goodfellow-ebook/dp/B01MRVFGX4)
+* [deep learning](https://www.amazon.com/Deep-Learning-NONE-Ian-Goodfellow-ebook/dp/B01MRVFGX4)
+
 main video
 ------------
 * [Convolutional Neural Networks for Visual Recognition 2016](http://academictorrents.com/details/46c5af9e2075d9af06f280b55b65cf9b44eb9fe7)	
 
 articles
 ------------
-#articles that everybody should read them:
+###articles that everybody should read them:
 * [ImageNetClassiﬁcationwithDeepConvolutional NeuralNetworks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)<br>
 this article is about CNN,Alex Krizhevsky,ReLU Nonlinearity, Training on Multiple GPUs,Local Response Normalization,Overlapping Pooling,Dropout
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf%20http://arxiv.org/abs/1502.03167.pdf)
